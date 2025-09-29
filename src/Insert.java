@@ -1,3 +1,4 @@
+//Write a java program to insert a new String
 import java.util.Scanner;
 class Insert {
     public static void main(String []s){
