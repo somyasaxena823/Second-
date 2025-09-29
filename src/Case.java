@@ -1,3 +1,4 @@
+// Write a java program to change cases of string
 import java.util.Scanner;
 class Upper{
     void upper(String s1)
