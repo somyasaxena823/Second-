@@ -1,3 +1,4 @@
+//Write a java program to print alphabets
 import java.util.Scanner;
 class Alphabets{
     public static void main(String []s){
